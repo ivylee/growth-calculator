@@ -4,6 +4,9 @@ library(shiny)
 shinyUI(fluidPage(
                   # Application title
                   titlePanel("Growth calculator"),
+                  tags$a(
+                         href = "https://github.com/ivylee/growth-calculator",
+                         "Source & Info"),
                   plotOutput("growthPlot", height = "900px"),
                   hr(),
                   fluidRow(
