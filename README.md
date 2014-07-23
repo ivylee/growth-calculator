@@ -1,7 +1,6 @@
 Growth Calculator
 =================
-
-Inspired by http://growth.tlb.org/
+https://ivylee.shinyapps.io/growth-cal/
 
 For a business, Profit = Revenue - Expense.
 
@@ -14,8 +13,16 @@ E_t = E_0(r_E + 1)^t
 where
 
 R_t - Revenue at time t
+
 R_0 - Revenue at time 0
+
 r_R - Revenue growth rate
+
 E_t - Expense at time t
+
 E_0 - Expense at time 0
+
 r_E - Expense growth rate
+
+
+Inspired by http://growth.tlb.org/
